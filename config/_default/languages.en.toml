@@ -1,0 +1,35 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Katharine Tena"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+ [params.author]
+   name = "Katharine Tena"
+   email = "kgt8@pitt.edu"
+   image = "img/blowfish_logo.png"
+   imageQuality = 96
+   headline = "Game Designer"
+#   bio = "A little bit about you"
+   links = [
+     { email = "mailto:kgt8@pitt.edu" },
+#     { link = "https://link-to-some-website.com/" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+     { linkedin = "https://www.linkedin.com/in/katharine-tena-728780289/" },
+     { itch-io = "https://speci-rin.itch.io/" },
+     { github = "https://github.com/Speci-Rin" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { twitch = "https://twitch.tv/username" },
+#     { youtube = "https://youtube.com/username" },
+   ]
